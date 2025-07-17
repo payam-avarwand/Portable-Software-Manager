@@ -1,10 +1,9 @@
-PORTABLE SOFTWARE MANAGER
+Portable Software Manager
 =========================
 
 Version: 1.2  
 Author: Payam Avarwand  
 Release Date: June 2025  
-Contact: payam_avar@yahoo.com
 
 Description:
 -------------
@@ -34,7 +33,6 @@ Usage:
 System Requirements:
 ---------------------
 - Windows 10/11 (64-bit)
-- .NET Framework 4.5 or later
 - Administrator privileges
 
 License:
@@ -53,3 +51,4 @@ Developed using PowerShell and Windows Forms API.
 Enjoy using Portable Software Manager!
 
 © 2025 Payam Avarwand
+Contact: payam_avar@yahoo.com
